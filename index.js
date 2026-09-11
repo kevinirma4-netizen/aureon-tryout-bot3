@@ -45,7 +45,7 @@ const RED = 0xB84949;
 ========================================================= */
 
 const DEFAULT_BANNER_URL =
-    'https://cdn.discordapp.com/attachments/1546560141464174652/1547942976435658872/bannrerrer.jpg?ex=6aa541bc&is=6aa3f03c&hm=043e06b63f584f802dcdb0f93c2d05c6595617ea10601a346f9a5aab500a573a';
+    'https://cdn.discordapp.com/attachments/1546557355313856603/1548019473561423963/bannrerrer.jpg?ex=6aa588fb&is=6aa4377b&hm=762cdee4242861c771a2b3750408fc0ba7b098d33fbefea17760cda296ea23d4';
 
 /*
  * Railway BANNER_URL can override the default.
